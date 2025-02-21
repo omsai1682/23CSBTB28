@@ -11,4 +11,4 @@
 10.<a href="https://github.com/omsai1682/23CSBTB28/blob/main/labExam.ipynb"> Lab - Exam</a><br>
 
 
-<a href="https://colab.research.google.com/drive/1P2XQRWZwX7HkFTjCJhmlRNXHqHfILgZC?authuser=0#scrollTo=4ObuWzqynR_0ADM_lab-1682">ADM_LAB-1682</a><br>
+<a href="https://colab.research.google.com/drive/1P2XQRWZwX7HkFTjCJhmlRNXHqHfILgZC?authuser=0#scrollTo=4ObuWzqynR_0ADM_lab-1682">1. ADM_LAB-1682</a><br>
