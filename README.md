@@ -9,3 +9,6 @@
 8.<a href ="https://colab.research.google.com/gist/Akshay3306/c543036c50fcc93ae9ca4800481f1551/lab_8.ipynb "> Lab -8</a><br>
 9.<a href ="https://colab.research.google.com/gist/Akshay3306/c8e3066f1d2795c311456fefeb6503d2/lab_9.ipynb"> Lab -9</a><br>
 10.<a href="https://github.com/omsai1682/23CSBTB28/blob/main/labExam.ipynb"> Lab - Exam</a><br>
+
+
+<a href="https://colab.research.google.com/drive/1P2XQRWZwX7HkFTjCJhmlRNXHqHfILgZC?authuser=0#scrollTo=4ObuWzqynR_0ADM_lab-1682">ADM_LAB-1682</a><br>
